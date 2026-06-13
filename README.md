@@ -34,7 +34,7 @@ por sus propiedades probióticas potenciales.
 LAB-BileAcid-Stress-Response/
 │
 ├── README.md                    ← Presentación del proyecto
-├── LICENSE                      ← MIT o CC BY 4.0 (como tu paper)
+├── LICENSE                      ← MIT o CC BY 4.0 (paper)
 │
 ├── data/                        ← Todos los datos crudos en CSV
 │   ├── raw/                     ← Datos tal como los extrajiste de Origin
