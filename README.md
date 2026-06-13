@@ -28,6 +28,34 @@ como parte del portfolio de bioinformática de la autora.
 Ambas cepas fueron aisladas de quesos artesanales de cabra y seleccionadas
 por sus propiedades probióticas potenciales.
 
+## Estructura del repositorio
+LAB-BileAcid-Stress-Response/
+│
+├── README.md                    ← Presentación del proyecto
+├── LICENSE                      ← MIT o CC BY 4.0 (como tu paper)
+│
+├── data/                        ← Todos los datos crudos en CSV
+│   ├── raw/                     ← Datos tal como los extrajiste de Origin
+│   └── processed/               ← Si hubiera transformaciones previas
+│
+├── R/                           ← Scripts de R
+│   ├── 00_setup.R               ← Instalación de paquetes
+│   ├── 01_viability_conjugated.R
+│   ├── 02_viability_free.R
+│   ├── 03_prebiotics.R
+│   ├── 04_zeta_potential.R
+│   ├── 05_autoaggregation.R
+│   └── 06_all_figures.R         ← Script maestro que corre todo
+│
+├── figures/                     ← Figuras generadas por R (PNG/SVG)
+│
+├── docs/                        ← Documentación adicional
+│   └── methods_summary.md
+│
+└── publication/
+    └── Moreno_et_al_2024_BioTech.pdf  ← Paper publicado
+
+
 ## Contenido del repositorio
 
 | Carpeta | Contenido |
