@@ -29,6 +29,8 @@ Ambas cepas fueron aisladas de quesos artesanales de cabra y seleccionadas
 por sus propiedades probióticas potenciales.
 
 ## Estructura del repositorio
+
+```
 LAB-BileAcid-Stress-Response/
 │
 ├── README.md                    ← Presentación del proyecto
