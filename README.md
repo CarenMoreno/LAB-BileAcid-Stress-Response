@@ -1,6 +1,24 @@
 # LAB-BileAcid-Stress-Response
 
 <p align="center">
+  <a href="https://www.r-project.org/">
+    <img src="https://img.shields.io/badge/R-%3E%3D4.0-276DC3?style=for-the-badge&logo=R&logoColor=white"/>
+  </a>
+  <a href="https://creativecommons.org/licenses/by/4.0/">
+    <img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey?style=for-the-badge"/>
+  </a>
+  <a href="https://www.mdpi.com/2673-6284/13/3/29">
+    <img src="https://img.shields.io/badge/DOI-10.3390%2Fbiotech13030029-28A745?style=for-the-badge"/>
+  </a>
+  <a href="https://www.ncbi.nlm.nih.gov/nuccore/OQ107531.1">
+    <img src="https://img.shields.io/badge/GenBank-CB2%20OQ107531.1-E67E22?style=for-the-badge"/>
+  </a>
+  <a href="https://www.ncbi.nlm.nih.gov/nuccore/OQ107533.1">
+    <img src="https://img.shields.io/badge/GenBank-CB12%20OQ107533.1-8E44AD?style=for-the-badge"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://creativecommons.org/licenses/by/4.0/">
     <img src="https://shields.io" alt="License"/>
   </a>
