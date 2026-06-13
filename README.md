@@ -1,8 +1,23 @@
 # LAB-BileAcid-Stress-Response
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![R version](https://img.shields.io/badge/R-%3E%3D4.0-blue)](https://www.r-project.org/)
-[![Publication](https://img.shields.io/badge/DOI-10.3390%2Fbiotech13030029-green)](https://doi.org/10.3390/biotech13030029)
+<p align="center">
+  <a href="https://creativecommons.org/licenses/by/4.0/">
+    <img src="https://shields.io" alt="License"/>
+  </a>
+  <a href="https://www.r-project.org/">
+    <img src="https://shields.io" alt="R Version"/>
+  </a>
+  <a href="https://www.mdpi.com/2673-6284/13/3/29">
+    <img src="https://shields.io" alt="Publication"/>
+  </a>
+  <img src="https://shields.io" alt="Samples"/>
+</p>
+
+<p align="center">
+  <b>GenBank:</b> 
+  <a href="https://nih.gov">CB2 (OQ107531.1)</a> | 
+  <a href="https://nih.gov">CB12 (OQ107533.1)</a>
+</p>
 
 ## Descripción
 
