@@ -97,7 +97,7 @@ source("R/06_all_figures.R")
 | `05_autoaggregation.R` | Fig. 45 | Autoagregación en el tiempo |
 
 <p align="center">
-  <img src="figures/04_zeta_potential.png?raw=true" width="600" alt="Potencial Z">
+  <img src="figures/04_zeta_potential.png?raw=true" width="850" alt="Potencial Z">
 </p>
 
 ## Autora
