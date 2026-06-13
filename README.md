@@ -1,7 +1,4 @@
 # LAB-BileAcid-Stress-Response
-R-based reproducibility of bile acid stress response in probiotic lactic acid bacteria (L. parabuchneri CB12 &amp; L. plantarum CB2). Viability, Raman spectroscopy, zeta potential &amp; autoaggregation analyses. Based on Moreno et al., BioTech 2024.
-
-# LAB-BileAcid-Stress-Response
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![R version](https://img.shields.io/badge/R-%3E%3D4.0-blue)](https://www.r-project.org/)
@@ -29,7 +26,7 @@ Ambas cepas fueron aisladas de quesos artesanales de cabra y seleccionadas
 por sus propiedades probióticas potenciales.
 
 <p align="center">
-  <img src="figures/biotech.png?raw=true" width="300" alt="Mecanismo de acción">
+  <img src="figures/biotech.png?raw=true" width="350" alt="Mecanismo de acción">
 </p>
 
 ## Estructura del repositorio
