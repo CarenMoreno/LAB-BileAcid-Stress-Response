@@ -295,7 +295,7 @@ Lo primero que hicimos fue determinar qué concentración de cada AB era necesar
 ### Resultados de viabilidad - Ácidos libres
 
 <div align="center">
-<img src="figures/fig22_ADC_AC_survival.png" width="80%" alt="Sobrevida con ADC y AC"/>
+<img src="figures/02_viability_free.png" width="80%" alt="Sobrevida con ADC y AC"/>
 <br>
 <sub><b>Figura 3.</b> Efecto de los ácidos biliares libres ADC (ácido desoxicólico) y AC (ácido cólico) sobre la sobrevida de ambas cepas. El AC resultó significativamente más tóxico que el ADC, mostrando inhibición completa de CB12 a 1 mM.</sub>
 </div>
