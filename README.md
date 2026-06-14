@@ -236,7 +236,7 @@ Ambas cepas fueron aisladas de quesos artesanales de cabra y seleccionadas previ
 
 ---
 
-## 📊 Capítulo I — Viabilidad y efecto de prebióticos
+## 📊 Capítulo I - Viabilidad y efecto de prebióticos
 
 ### Los ácidos biliares evaluados
 
@@ -295,7 +295,7 @@ Lo primero que hicimos fue determinar qué concentración de cada AB era necesar
 
 ---
 
-### Resultados de viabilidad — Ácidos libres
+### Resultados de viabilidad - Ácidos libres
 
 <div align="center">
 <img src="figures/fig22_ADC_AC_survival.png" width="80%" alt="Sobrevida con ADC y AC"/>
