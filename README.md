@@ -568,7 +568,7 @@ La autoagregación es la capacidad de las bacterias de reconocerse entre sí y f
 #### Modelo estructural de la pared celular bacteriana
 
 <div align="center">
-<img src="figures/15_cell_wall_model_biorender.png" width="75%" alt="Modelo pared celular"/>
+<img src="figures/15_cell_wall_model_biorender.jpg" width="65%" alt="Modelo pared celular"/>
 <br>
 <sub><b>Figura 26.</b> Modelo estructural general de la pared celular de cepas de <i>Lactobacillus</i>. (1) Membrana citoplasmática. (2) Capa interna rica en proteínas. (3) Capa exterior rica en polisacáridos y ácidos lipoteicoicos — componentes clave en la interacción con los AB. Creado con BioRender.com.</sub>
 </div>
