@@ -469,7 +469,7 @@ Los análisis fueron realizados en el **Centro Integral de Microscopía Electró
 #### CB12 sin tratar - morfología normal
 
 <div align="center">
-<img src="figures/11_SEM_control.png" width="80%" alt="SEM CB12 control"/>
+<img src="figures/11_SEM_control.png" width="60%" alt="SEM CB12 control"/>
 <br>
 <sub><b>Figura 17.</b> Imágenes SEM de <i>L. parabuchneri</i> CB12 control a distintas magnificaciones (2500×, 5000×, 10000× y 25000×). Las células muestran morfología de bacilo corto con superficie lisa e intacta. Tamaño estimado: 577,6 ± 52,5 × 994,8 ± 218,1 nm.</sub>
 </div>
