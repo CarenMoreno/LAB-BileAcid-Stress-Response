@@ -411,7 +411,7 @@ Este capítulo fue para mí el más complejo y también el más fascinante de to
 <br>
 
 <div align="center">
-<img src="figures/fig30_raman_diff_DCA.png" width="85%" alt="Espectros diferencia ADC"/>
+<img src="figures/09_raman_diff_DCA.png" width="50%" alt="Espectros diferencia ADC"/>
 <br>
 <sub><b>Figura 11.</b> Espectros Raman diferencia de CB12 con ADC. A concentraciones elevadas (0,5-2 mM) se observa incremento considerable de la señal de ADN (1089 cm⁻¹), indicando daño oxidativo en esta macromolécula.</sub>
 </div>
