@@ -395,7 +395,7 @@ Este capítulo fue para mí el más complejo y también el más fascinante de to
 <br>
 
 <div align="center">
-<img src="figures/fig28_raman_diff_TDCA.png" width="50%" alt="Espectros diferencia ATDC"/>
+<img src="figures/08_raman_diff_TDCA.png" width="50%" alt="Espectros diferencia ATDC"/>
 <br>
 <sub><b>Figura 9.</b> Espectros Raman diferencia de CB12 incubada con ATDC a distintas concentraciones. Se restó la contribución del ATDC puro. La banda a 1687 cm⁻¹ (estructura β-lámina) indica modificación de la estructura secundaria de proteínas.</sub>
 </div>
