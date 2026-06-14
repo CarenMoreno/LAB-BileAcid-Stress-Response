@@ -251,7 +251,7 @@ Trabajamos con seis ácidos biliares que representan las formas más relevantes 
 | ADC | Ácido desoxicólico | **Libre** | — |
 | AC | Ácido cólico | **Libre** | — |
 
-Los AB libres son productos de la hidrólisis de los conjugados, catalizada por la enzima **hidrolasa de sales biliares (HSB/BSH)** — una actividad que ambas cepas presentan y que es considerada un biomarcador probiótico.
+Los AB libres son productos de la hidrólisis de los conjugados, catalizada por la enzima **hidrolasa de sales biliares (HSB/BSH)** - una actividad que ambas cepas presentan y que es considerada un biomarcador probiótico.
 
 ### Concentraciones inhibitorias mínimas (CIM)
 
@@ -321,7 +321,7 @@ Un trabajo reciente de Foley et al. (2021) en *L. gasseri* y *L. acidophilus* ta
 <div align="center">
 <img src="figures/fig24_free_comparison.png" width="60%" alt="Comparación AB libres"/>
 <br>
-<sub><b>Figura 5.</b> Comparación de los porcentajes de sobrevida con los AB libres (AC y ADC). Notar la diferencia de escala en el eje X respecto a la figura anterior — los AB libres son activos a concentraciones mucho menores.</sub>
+<sub><b>Figura 5.</b> Comparación de los porcentajes de sobrevida con los AB libres (AC y ADC). Notar la diferencia de escala en el eje X respecto a la figura anterior - los AB libres son activos a concentraciones mucho menores.</sub>
 </div>
 
 ---
@@ -345,7 +345,7 @@ La hipótesis era que estos compuestos podrían actuar como fuente de energía a
 
 El resultado más relevante: la **lactulosa aumentó un 7% la sobrevida** de CB12 en presencia de AGDC, con diferencias estadísticamente significativas (p ≤ 0,001). Este hallazgo sugiere que esta combinación podría constituir un **simbiótico complementario** con ventajas sobre el probiótico solo.
 
-Para el ATDC, sorprendentemente, ambos prebióticos *disminuyeron* la viabilidad. Una posibilidad es que los prebióticos afecten la actividad HSB de la cepa, modificando la tasa de deconjugación del ATDC a ADC — que como vimos, es más tóxico.
+Para el ATDC, sorprendentemente, ambos prebióticos *disminuyeron* la viabilidad. Una posibilidad es que los prebióticos afecten la actividad HSB de la cepa, modificando la tasa de deconjugación del ATDC a ADC - que como vimos, es más tóxico.
 
 ---
 
@@ -358,7 +358,7 @@ Este capítulo fue para mí el más complejo y también el más fascinante de to
 ### Espectro basal de CB12
 
 <div align="center">
-<img src="figures/fig26_raman_baseline.png" width="85%" alt="Espectro Raman basal CB12"/>
+<img src="figures/07_raman_baseline.png" width="85%" alt="Espectro Raman basal CB12"/>
 <br>
 <sub><b>Figura 7.</b> Espectro Raman normalizado de <i>L. parabuchneri</i> CB12. Las regiones coloreadas corresponden a señales atribuidas a diferentes macromoléculas celulares. Imagen superior: ampliación de la región 1250-1380 cm⁻¹ mostrando las dos componentes de ADN (Adenina 1310 cm⁻¹ y Guanina 1316 cm⁻¹).</sub>
 </div>
@@ -405,7 +405,7 @@ Este capítulo fue para mí el más complejo y también el más fascinante de to
 <div align="center">
 <img src="figures/fig29_raman_DCA.png" width="85%" alt="Espectros Raman CB12 con ADC"/>
 <br>
-<sub><b>Figura 10.</b> Espectros Raman de CB12 en presencia de ADC (0,05 a 2 mM). A la concentración más baja (0,05 mM) no se observan cambios significativos — consistente con los ensayos de viabilidad donde esa concentración no afectó el crecimiento.</sub>
+<sub><b>Figura 10.</b> Espectros Raman de CB12 en presencia de ADC (0,05 a 2 mM). A la concentración más baja (0,05 mM) no se observan cambios significativos - consistente con los ensayos de viabilidad donde esa concentración no afectó el crecimiento.</sub>
 </div>
 
 <br>
@@ -416,12 +416,12 @@ Este capítulo fue para mí el más complejo y también el más fascinante de to
 <sub><b>Figura 11.</b> Espectros Raman diferencia de CB12 con ADC. A concentraciones elevadas (0,5-2 mM) se observa incremento considerable de la señal de ADN (1089 cm⁻¹), indicando daño oxidativo en esta macromolécula.</sub>
 </div>
 
-### Efecto del AC — el más destructivo
+### Efecto del AC - el más destructivo
 
 <div align="center">
 <img src="figures/fig31_raman_CA.png" width="85%" alt="Espectros Raman CB12 con AC"/>
 <br>
-<sub><b>Figura 12.</b> Espectros Raman de CB12 con AC (0,05; 0,1 y 0,25 mM). A diferencia del ADC, el AC genera cambios importantes desde la concentración más baja evaluada — lo que explica su mayor efecto inhibitorio sobre la viabilidad celular.</sub>
+<sub><b>Figura 12.</b> Espectros Raman de CB12 con AC (0,05; 0,1 y 0,25 mM). A diferencia del ADC, el AC genera cambios importantes desde la concentración más baja evaluada - lo que explica su mayor efecto inhibitorio sobre la viabilidad celular.</sub>
 </div>
 
 <br>
@@ -458,15 +458,15 @@ Este capítulo fue para mí el más complejo y también el más fascinante de to
 
 ---
 
-## 🔭 Capítulo III — Morfología y propiedades de superficie
+## 🔭 Capítulo III - Morfología y propiedades de superficie
 
 ### Microscopía electrónica de barrido (SEM)
 
-Las imágenes de microscopía SEM permitieron visualizar directamente los cambios morfológicos que los AB producen sobre la superficie bacteriana. Fue emocionante ver estas imágenes por primera vez — la diferencia entre el control y las células tratadas es impactante.
+Las imágenes de microscopía SEM permitieron visualizar directamente los cambios morfológicos que los AB producen sobre la superficie bacteriana. Fue emocionante ver estas imágenes por primera vez - la diferencia entre el control y las células tratadas es impactante.
 
 Los análisis fueron realizados en el **Centro Integral de Microscopía Electrónica (CIME-UNT-CONICET)**.
 
-#### CB12 sin tratar — morfología normal
+#### CB12 sin tratar - morfología normal
 
 <div align="center">
 <img src="figures/fig36_SEM_control.png" width="80%" alt="SEM CB12 control"/>
@@ -487,7 +487,7 @@ Los análisis fueron realizados en el **Centro Integral de Microscopía Electró
 <div align="center">
 <img src="figures/fig38_SEM_DCA.png" width="80%" alt="SEM CB12 con ADC"/>
 <br>
-<sub><b>Figura 19.</b> Imágenes SEM de CB12 con ADC 2 mM. Se observan distorsiones de membrana severas con depresiones y pliegues superficiales. De manera notable, las bacterias forman agregados en el medio líquido — lo que se relaciona con modificaciones en sus propiedades de adhesión.</sub>
+<sub><b>Figura 19.</b> Imágenes SEM de CB12 con ADC 2 mM. Se observan distorsiones de membrana severas con depresiones y pliegues superficiales. De manera notable, las bacterias forman agregados en el medio líquido - lo que se relaciona con modificaciones en sus propiedades de adhesión.</sub>
 </div>
 
 #### CB12 tratada con AC (0,5 mM)
@@ -495,7 +495,7 @@ Los análisis fueron realizados en el **Centro Integral de Microscopía Electró
 <div align="center">
 <img src="figures/fig39_SEM_CA.png" width="80%" alt="SEM CB12 con AC"/>
 <br>
-<sub><b>Figura 20.</b> Imágenes SEM de CB12 con AC 0,5 mM. Se observa una célula con perforación central (imagen c y d) — una depresión similar a un poro que podría resultar en la liberación de contenido celular esencial. También se evidencia alargamiento celular y tabicamiento irregular.</sub>
+<sub><b>Figura 20.</b> Imágenes SEM de CB12 con AC 0,5 mM. Se observa una célula con perforación central (imagen c y d) - una depresión similar a un poro que podría resultar en la liberación de contenido celular esencial. También se evidencia alargamiento celular y tabicamiento irregular.</sub>
 </div>
 
 #### Cambios en el tamaño celular
@@ -517,7 +517,7 @@ Los análisis fueron realizados en el **Centro Integral de Microscopía Electró
 
 ### Potencial zeta (Pζ)
 
-El potencial zeta es una medida directa de la carga superficial neta de la célula bacteriana. Su variación en presencia de AB permite inferir cómo estas moléculas interactúan con la envoltura celular — si se acumulan en la membrana (modificando la carga) o si difunden rápidamente hacia el interior.
+El potencial zeta es una medida directa de la carga superficial neta de la célula bacteriana. Su variación en presencia de AB permite inferir cómo estas moléculas interactúan con la envoltura celular - si se acumulan en la membrana (modificando la carga) o si difunden rápidamente hacia el interior.
 
 <div align="center">
 <img src="figures/fig40_zeta_TDCA.png" width="70%" alt="Potencial zeta ATDC"/>
@@ -530,7 +530,7 @@ El potencial zeta es una medida directa de la carga superficial neta de la célu
 <div align="center">
 <img src="figures/fig41_zeta_DCA.png" width="70%" alt="Potencial zeta ADC"/>
 <br>
-<sub><b>Figura 22.</b> Distribución de potencial zeta con ADC. A diferencia del AC y ATDC, el ADC produce cambios graduales hacia valores más positivos — consistente con difusión rápida al interior celular dada su mayor hidrofobicidad.</sub>
+<sub><b>Figura 22.</b> Distribución de potencial zeta con ADC. A diferencia del AC y ATDC, el ADC produce cambios graduales hacia valores más positivos - consistente con difusión rápida al interior celular dada su mayor hidrofobicidad.</sub>
 </div>
 
 <br>
