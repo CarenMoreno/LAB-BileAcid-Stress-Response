@@ -177,9 +177,9 @@ Si encontrás algo útil acá, si tenés preguntas sobre los métodos, o si simp
 
 - [Contexto biológico](#-contexto-biológico)
 - [Las bacterias del estudio](#-las-bacterias-del-estudio)
-- [Capítulo I — Viabilidad y efecto de prebióticos](#-capítulo-i--viabilidad-y-efecto-de-prebióticos)
-- [Capítulo II — Espectroscopía Raman](#-capítulo-ii--espectroscopía-raman)
-- [Capítulo III — Morfología y propiedades de superficie](#-capítulo-iii--morfología-y-propiedades-de-superficie)
+- [Capítulo I - Viabilidad y efecto de prebióticos](#-capítulo-i--viabilidad-y-efecto-de-prebióticos)
+- [Capítulo II - Espectroscopía Raman](#-capítulo-ii--espectroscopía-raman)
+- [Capítulo III - Morfología y propiedades de superficie](#-capítulo-iii--morfología-y-propiedades-de-superficie)
 - [Estructura del repositorio](#-estructura-del-repositorio)
 - [Cómo reproducir los análisis](#-cómo-reproducir-los-análisis)
 - [Publicación asociada](#-publicación-asociada)
@@ -387,7 +387,7 @@ Este capítulo fue para mí el más complejo y también el más fascinante de to
 ### Efecto del ATDC sobre las macromoléculas de CB12
 
 <div align="center">
-<img src="figures/fig27_raman_TDCA.png" width="85%" alt="Espectros Raman CB12 con ATDC"/>
+<img src="figures/08_raman_TDCA.png" width="85%" alt="Espectros Raman CB12 con ATDC"/>
 <br>
 <sub><b>Figura 8.</b> Espectros Raman de <i>L. parabuchneri</i> CB12 en presencia y ausencia de ATDC (2,5; 5; 7,5 y 10 mM). A concentraciones bajas se observa incremento en las bandas de ADN, carbohidratos y puentes disulfuro. A concentraciones altas, los cambios indican ruptura y liberación de proteínas, lípidos y polisacáridos.</sub>
 </div>
@@ -432,7 +432,7 @@ Este capítulo fue para mí el más complejo y también el más fascinante de to
 <sub><b>Figura 13.</b> Espectros Raman diferencia con AC. Se observa desplazamiento de la banda a 522 cm⁻¹ hacia 548 cm⁻¹, atribuido a la oxidación de los puentes disulfuro de proteínas.</sub>
 </div>
 
-### Análisis de fracciones celulares — membrana-pared y citoplasma
+### Análisis de fracciones celulares - membrana-pared y citoplasma
 
 <div align="center">
 <img src="figures/fig33_raman_fractions.png" width="80%" alt="Fracciones celulares Raman"/>
