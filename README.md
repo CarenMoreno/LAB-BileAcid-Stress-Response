@@ -403,7 +403,7 @@ Este capítulo fue para mí el más complejo y también el más fascinante de to
 ### Efecto del ADC sobre las macromoléculas de CB12
 
 <div align="center">
-<img src="figures/fig29_raman_DCA.png" width="85%" alt="Espectros Raman CB12 con ADC"/>
+<img src="figures/09_raman_DCA.png" width="50%" alt="Espectros Raman CB12 con ADC"/>
 <br>
 <sub><b>Figura 10.</b> Espectros Raman de CB12 en presencia de ADC (0,05 a 2 mM). A la concentración más baja (0,05 mM) no se observan cambios significativos - consistente con los ensayos de viabilidad donde esa concentración no afectó el crecimiento.</sub>
 </div>
