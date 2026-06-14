@@ -419,7 +419,7 @@ Este capítulo fue para mí el más complejo y también el más fascinante de to
 ### Efecto del AC - el más destructivo
 
 <div align="center">
-<img src="figures/10_raman_CA.png" width="50%" alt="Espectros Raman CB12 con AC"/>
+<img src="figures/10_raman_CA.png" width="55%" alt="Espectros Raman CB12 con AC"/>
 <br>
 <sub><b>Figura 12.</b> Espectros Raman de CB12 con AC (0,05; 0,1 y 0,25 mM). A diferencia del ADC, el AC genera cambios importantes desde la concentración más baja evaluada - lo que explica su mayor efecto inhibitorio sobre la viabilidad celular.</sub>
 </div>
