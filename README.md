@@ -558,7 +558,7 @@ El potencial zeta es una medida directa de la carga superficial neta de la célu
 La autoagregación es la capacidad de las bacterias de reconocerse entre sí y formar agrupaciones celulares. Es una propiedad relevante para el efecto probiótico porque las bacterias que se agregan tienen mayor capacidad de colonizar la mucosa intestinal y resistir situaciones de estrés.
 
 <div align="center">
-<img src="figures/fig45_autoaggregation.png" width="80%" alt="Autoagregación"/>
+<img src="figures/05_autoaggregation.png" width="50%" alt="Autoagregación"/>
 <br>
 <sub><b>Figura 25.</b> Autoagregación de <i>L. parabuchneri</i> CB12 inducida por AC (0,25 mM), ADC (1 mM) y ATDC (5 mM) a distintos tiempos de incubación (0-120 min). El ADC y el ATDC aumentaron la autoagregación respecto al control, mientras que el AC no mostró efecto significativo.</sub>
 </div>
@@ -570,7 +570,7 @@ La autoagregación es la capacidad de las bacterias de reconocerse entre sí y f
 <div align="center">
 <img src="figures/15_cell_wall_model_biorender.jpg" width="65%" alt="Modelo pared celular"/>
 <br>
-<sub><b>Figura 26.</b> Modelo estructural general de la pared celular de cepas de <i>Lactobacillus</i>. (1) Membrana citoplasmática. (2) Capa interna rica en proteínas. (3) Capa exterior rica en polisacáridos y ácidos lipoteicoicos — componentes clave en la interacción con los AB. Creado con BioRender.com.</sub>
+<sub><b>Figura 26.</b> Modelo estructural general de la pared celular de cepas de <i>Lactobacillus</i>. (1) Membrana citoplasmática. (2) Capa interna rica en proteínas. (3) Capa exterior rica en polisacáridos y ácidos lipoteicoicos - componentes clave en la interacción con los AB. Creado con BioRender.com.</sub>
 </div>
 
 ---
