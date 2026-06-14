@@ -349,7 +349,7 @@ Para el ATDC, sorprendentemente, ambos prebióticos *disminuyeron* la viabilidad
 
 ---
 
-## 🔬 Capítulo II — Espectroscopía Raman
+## 🔬 Capítulo II - Espectroscopía Raman
 
 La espectroscopía Raman es una técnica no destructiva que permite obtener una "huella molecular" de la célula bacteriana completa. Cuando los AB interactúan con las células, los cambios en la señal Raman reflejan qué macromoléculas están siendo afectadas y en qué medida.
 
@@ -358,7 +358,7 @@ Este capítulo fue para mí el más complejo y también el más fascinante de to
 ### Espectro basal de CB12
 
 <div align="center">
-<img src="figures/07_raman_baseline.png" width="85%" alt="Espectro Raman basal CB12"/>
+<img src="figures/07_raman_baseline.png" width="50%" alt="Espectro Raman basal CB12"/>
 <br>
 <sub><b>Figura 7.</b> Espectro Raman normalizado de <i>L. parabuchneri</i> CB12. Las regiones coloreadas corresponden a señales atribuidas a diferentes macromoléculas celulares. Imagen superior: ampliación de la región 1250-1380 cm⁻¹ mostrando las dos componentes de ADN (Adenina 1310 cm⁻¹ y Guanina 1316 cm⁻¹).</sub>
 </div>
