@@ -157,7 +157,7 @@ Centro de Investigación en Biofísica Aplicada y Alimentos (CIBAAL-UNSE-CONICET
 
 **Caren N. Moreno** · Biotecnóloga · CIBAAL-UNSE-CONICET · Santiago del Estero, Argentina
 
-*Trabajo Final de Grado en Biotecnología — 2023/2024*
+*Trabajo Final de Grado en Biotecnología - 2023/2024*
 
 </div>
 
@@ -270,13 +270,10 @@ Lo primero que hicimos fue determinar qué concentración de cada AB era necesar
 
 </div>
 
-### Resultados de viabilidad — Ácidos conjugados
-
-<!-- INSTRUCCIÓN: reemplazá los nombres de archivo por los nombres exactos 
-     de tus imágenes una vez que las subas a la carpeta figures/ -->
+### Resultados de viabilidad - Ácidos conjugados
 
 <div align="center">
-<img src="figures/fig20_AGDC_AGC_survival.png" width="80%" alt="Sobrevida con AGDC y AGC"/>
+<img src="figures/01_viability_conjugated.png" width="80%" alt="Sobrevida con AGDC y AGC"/>
 <br>
 <sub><b>Figura 1.</b> Porcentajes de sobrevida de <i>L. parabuchneri</i> CB12 y <i>Lp. plantarum</i> CB2 en presencia de AGDC y AGC a distintas concentraciones. El AGDC resultó más inhibitorio que el AGC para ambas cepas.</sub>
 </div>
