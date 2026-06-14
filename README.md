@@ -435,7 +435,7 @@ Este capítulo fue para mí el más complejo y también el más fascinante de to
 ### Análisis de fracciones celulares - membrana-pared y citoplasma
 
 <div align="center">
-<img src="figures/fig33_raman_fractions.png" width="80%" alt="Fracciones celulares Raman"/>
+<img src="figures/11_raman_fractions.png" width="80%" alt="Fracciones celulares Raman"/>
 <br>
 <sub><b>Figura 14.</b> Espectros Raman de las fracciones membrana-pared y citoplasma de CB12. Las bandas más intensas en membrana-pared corresponden a lípidos (1748, 1436, 773 cm⁻¹) y proteínas de capa S. En el citoplasma dominan ADN (1087 cm⁻¹) y puentes disulfuro (552 cm⁻¹).</sub>
 </div>
