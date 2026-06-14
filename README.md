@@ -469,7 +469,7 @@ Los análisis fueron realizados en el **Centro Integral de Microscopía Electró
 #### CB12 sin tratar - morfología normal
 
 <div align="center">
-<img src="figures/fig36_SEM_control.png" width="80%" alt="SEM CB12 control"/>
+<img src="figures/12_SEM_control.png" width="80%" alt="SEM CB12 control"/>
 <br>
 <sub><b>Figura 17.</b> Imágenes SEM de <i>L. parabuchneri</i> CB12 control a distintas magnificaciones (2500×, 5000×, 10000× y 25000×). Las células muestran morfología de bacilo corto con superficie lisa e intacta. Tamaño estimado: 577,6 ± 52,5 × 994,8 ± 218,1 nm.</sub>
 </div>
@@ -568,7 +568,7 @@ La autoagregación es la capacidad de las bacterias de reconocerse entre sí y f
 #### Modelo estructural de la pared celular bacteriana
 
 <div align="center">
-<img src="figures/fig43_cell_wall_model_biorender.png" width="75%" alt="Modelo pared celular"/>
+<img src="figures/15_cell_wall_model_biorender.png" width="75%" alt="Modelo pared celular"/>
 <br>
 <sub><b>Figura 26.</b> Modelo estructural general de la pared celular de cepas de <i>Lactobacillus</i>. (1) Membrana citoplasmática. (2) Capa interna rica en proteínas. (3) Capa exterior rica en polisacáridos y ácidos lipoteicoicos — componentes clave en la interacción con los AB. Creado con BioRender.com.</sub>
 </div>
