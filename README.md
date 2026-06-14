@@ -387,7 +387,7 @@ Este capítulo fue para mí el más complejo y también el más fascinante de to
 ### Efecto del ATDC sobre las macromoléculas de CB12
 
 <div align="center">
-<img src="figures/08_raman_TDCA.png" width="85%" alt="Espectros Raman CB12 con ATDC"/>
+<img src="figures/08_raman_TDCA.png" width="50%" alt="Espectros Raman CB12 con ATDC"/>
 <br>
 <sub><b>Figura 8.</b> Espectros Raman de <i>L. parabuchneri</i> CB12 en presencia y ausencia de ATDC (2,5; 5; 7,5 y 10 mM). A concentraciones bajas se observa incremento en las bandas de ADN, carbohidratos y puentes disulfuro. A concentraciones altas, los cambios indican ruptura y liberación de proteínas, lípidos y polisacáridos.</sub>
 </div>
