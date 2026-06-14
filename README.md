@@ -169,7 +169,7 @@ Este repositorio es el resultado de más de un año de trabajo experimental. Lo 
 
 No es un repositorio convencional. Es la historia de un trabajo que costó muchísimo esfuerzo, que atravesó reformateos de computadora, pérdida de datos y horas de recuperación pacienciosa, y que igual terminó en una publicación científica. Lo subo completo porque creo que la ciencia abierta importa, y porque quiero que este trabajo sea visible y útil para quien lo encuentre.
 
-Si encontrás algo útil acá, si tenés preguntas sobre los métodos, o si simplemente querés hablar de bacterias lácticas y ácidos biliares — encontrá mis datos de contacto al final.
+Si encontrás algo útil acá, si tenés preguntas sobre los métodos, o si simplemente querés hablar de bacterias lácticas y ácidos biliares - encontrá mis datos de contacto al final.
 
 ---
 
@@ -200,7 +200,7 @@ Para las bacterias que viven en el intestino, los AB representan una barrera qu�
 
 Para que una bacteria láctica (BL) pueda ser utilizada como **probiótico**, debe ser capaz de sobrevivir a esta barrera y colonizar, al menos transitoriamente, el tubo intestinal. Por eso, la **tolerancia a ácidos biliares** es uno de los criterios de selección más importantes en el desarrollo de cepas probióticas.
 
-En este trabajo estudiamos la respuesta de dos BL con potencial probiótico frente a diferentes tipos de AB — conjugados (glico- y tauro-) y libres — usando una batería de técnicas complementarias: ensayos de viabilidad, espectroscopía Raman, microscopía electrónica de barrido (SEM) y medición de potencial zeta.
+En este trabajo estudiamos la respuesta de dos BL con potencial probiótico frente a diferentes tipos de AB - conjugados (glico- y tauro-) y libres - usando una batería de técnicas complementarias: ensayos de viabilidad, espectroscopía Raman, microscopía electrónica de barrido (SEM) y medición de potencial zeta.
 
 ---
 
