@@ -135,7 +135,7 @@ Centro de Investigación en Biofísica Aplicada y Alimentos (CIBAAL-UNSE-CONICET
 
 # 🧬 LAB-BileAcid-Stress-Response
 
-### Respuesta molecular de bacterias lácticas al estrés por ácidos biliares<br>y su potencial modulación por oligosacáridos prebióticos
+### Interacción entre ácidos biliares y bacterias lácticas: su relacion con el metabolismo energetico del huesped
 
 <p align="center">
   <a href="https://www.r-project.org/">
