@@ -520,7 +520,7 @@ Los análisis fueron realizados en el **Centro Integral de Microscopía Electró
 El potencial zeta es una medida directa de la carga superficial neta de la célula bacteriana. Su variación en presencia de AB permite inferir cómo estas moléculas interactúan con la envoltura celular - si se acumulan en la membrana (modificando la carga) o si difunden rápidamente hacia el interior.
 
 <div align="center">
-<img src="figures/fig40_zeta_TDCA.png" width="70%" alt="Potencial zeta ATDC"/>
+<img src="figures/04_zeta_potential.png" width="70%" alt="Potencial zeta"/>
 <br>
 <sub><b>Figura 21.</b> Distribución de potencial zeta de CB12 en función de la concentración de ATDC. El ATDC a bajas concentraciones desplaza el Pζ hacia valores más negativos, indicando acumulación del AB en la membrana.</sub>
 </div>
