@@ -330,8 +330,8 @@ Un trabajo reciente de Foley et al. (2021) en *L. gasseri* y *L. acidophilus* ta
 
 Una vez identificada la cepa CB12 como la más resistente y con mejores propiedades probióticas, evaluamos si la adición de **prebióticos** podía mejorar aún más su tolerancia a los AB. Los prebióticos evaluados fueron:
 
-- **Inulina HP** — polímero de fructosa de cadena larga
-- **Lactulosa** — disacárido artificial isómero de la lactosa
+- **Inulina HP** - polímero de fructosa de cadena larga
+- **Lactulosa** - disacárido artificial isómero de la lactosa
 
 La hipótesis era que estos compuestos podrían actuar como fuente de energía adicional bajo condiciones de estrés, o bien reducir la solubilidad de los AB disminuyendo su toxicidad.
 
