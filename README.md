@@ -546,9 +546,10 @@ El potencial zeta es una medida directa de la carga superficial neta de la célu
 #### Modelo mecanístico propuesto
 
 <div align="center">
-<img src="figures/16_DCA_mechanism_biorender.jpg" width="60%" alt="Mecanismo de acción propuesto"/>
-<br>
-<sub><b>Figura 24.</b> Modelo propuesto para explicar la variación del potencial zeta de CB12 con los distintos AB. <b>A)</b> ADC: difunde rápidamente al interior celular aumentando la carga positiva superficial. <b>B)</b> AC y ATDC: se acumulan en los componentes de la pared (polisacáridos y ácidos lipoteicoicos), negativizando la carga superficial antes de ingresar. Creado con BioRender.com.</sub>
+  <img src="figures/16_DCA_mechanism_biorender.jpg" width="48%" alt="Mecanismo de acción propuesto del DCA"/>
+  <img src="figures/16_CA%20y%20TDCA_mechanism_biorender.jpg" width="48%" alt="Mecanismo de acción del CA y TDCA"/>
+  <br>
+  <sub><b>Figura 24.</b> Modelo propuesto para explicar la variación del potencial zeta de CB12 con los distintos AB. <b>A)</b> ADC: difunde rápidamente al interior celular aumentando la carga positiva superficial. <b>B)</b> AC y ATDC: se acumulan en los componentes de la pared (polisacáridos y ácidos lipoteicoicos), negativizando la carga superficial antes de ingresar. Creado con BioRender.com.</sub>
 </div>
 
 ---
