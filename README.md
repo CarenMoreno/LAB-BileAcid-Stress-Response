@@ -167,8 +167,6 @@ Centro de Investigación en Biofísica Aplicada y Alimentos (CIBAAL-UNSE-CONICET
 
 Este repositorio es el resultado de más de un año de trabajo experimental. Lo que encontrás acá es mi tesis de grado completa en formato abierto y reproducible: los datos, las figuras, los esquemas que construí para entender y comunicar los resultados, y el código en R que generé para re-analizar todo con herramientas bioinformáticas después de haberlo hecho originalmente en OriginPro.
 
-No es un repositorio convencional. Es la historia de un trabajo que costó muchísimo esfuerzo, que atravesó reformateos de computadora, pérdida de datos y horas de recuperación pacienciosa, y que igual terminó en una publicación científica. Lo subo completo porque creo que la ciencia abierta importa, y porque quiero que este trabajo sea visible y útil para quien lo encuentre.
-
 Si encontrás algo útil acá, si tenés preguntas sobre los métodos, o si simplemente querés hablar de bacterias lácticas y ácidos biliares - encontrá mis datos de contacto al final.
 
 ---
