@@ -703,12 +703,10 @@ GitHub. https://github.com/CarenMoreno/LAB-BileAcid-Stress-Response
 
 ## 👩‍🔬 Sobre la autora
 
-**Caren N. Moreno**
+**Caren Moreno**
 Biotecnóloga | Docente de Biología y Físicoquímica en educación media | Estudiante de Maestría en Bioinformática (UNIR)
 
 Este trabajo fue realizado en el **Centro de Investigación en Biofísica Aplicada y Alimentos (CIBAAL-UNSE-CONICET)**, Santiago del Estero, Argentina, bajo la dirección de la Dra. Ana Y. Bustos.
-
-📧 carenmoreno28@gmail.com
 
 ---
 
