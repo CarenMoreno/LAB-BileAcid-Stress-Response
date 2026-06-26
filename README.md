@@ -171,7 +171,7 @@ Si encontrás algo útil acá, si tenés preguntas sobre los métodos, o si simp
 
 ---
 
-## 📋 Tabla de contenidos
+## 📋Tabla de contenidos
 
 - [Contexto biológico](#-contexto-biológico)
 - [Las bacterias del estudio](#-las-bacterias-del-estudio)
