@@ -414,7 +414,7 @@ Este capítulo fue para mí el más complejo y también el más fascinante de to
 <sub><b>Figura 11.</b> Espectros Raman diferencia de CB12 con ADC. A concentraciones elevadas (0,5-2 mM) se observa incremento considerable de la señal de ADN (1089 cm⁻¹), indicando daño oxidativo en esta macromolécula.</sub>
 </div>
 
-### Efecto del AC - el más destructivo
+### Efecto del AC - (el más destructivo)
 
 <div align="center">
 <img src="figures/10_raman_CA.png" width="53%" alt="Espectros Raman CB12 con AC"/>
