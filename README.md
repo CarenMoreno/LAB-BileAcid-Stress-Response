@@ -353,7 +353,7 @@ La espectroscopía Raman es una técnica no destructiva que permite obtener una 
 
 Este capítulo fue para mí el más complejo y también el más fascinante de toda la tesis. Es, hasta donde sabemos, **la primera vez que esta técnica fue utilizada para estudiar el efecto de ácidos biliares en bacterias**.
 
-### Espectro basal de CB12
+### Espectro basal de CB12 
 
 <div align="center">
 <img src="figures/07_raman_baseline.png" width="50%" alt="Espectro Raman basal CB12"/>
