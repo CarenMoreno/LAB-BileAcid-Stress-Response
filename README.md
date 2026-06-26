@@ -552,7 +552,7 @@ El potencial zeta es una medida directa de la carga superficial neta de la célu
 
 ---
 
-### Autoagregación
+### Autoagregación 
 
 La autoagregación es la capacidad de las bacterias de reconocerse entre sí y formar agrupaciones celulares. Es una propiedad relevante para el efecto probiótico porque las bacterias que se agregan tienen mayor capacidad de colonizar la mucosa intestinal y resistir situaciones de estrés.
 
