@@ -99,7 +99,7 @@ LAB-BileAcid-Stress-Response/
 ### Pasos
 
 ```r
-# 1. Instalar dependencias
+# 1. Instalar dependencias 
 source("R/00_setup.R") 
 
 # 2. Generar todas las figuras
