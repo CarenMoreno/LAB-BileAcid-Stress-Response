@@ -72,7 +72,7 @@ LAB-BileAcid-Stress-Response/
 │
 ├── figures/                     ← Figuras generadas por R (PNG/SVG)
 │
-├── docs/                        ← Documentación adicional
+├── docs/                        ← Documentación adicional 
 │   └── methods_summary.md
 │
 └── publication/
