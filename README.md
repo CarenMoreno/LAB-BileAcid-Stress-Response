@@ -382,7 +382,7 @@ Este capítulo fue para mí el más complejo y también el más fascinante de to
 
 </div>
 
-### Efecto del ATDC sobre las macromoléculas de CB12
+### Efecto del ATDC sobre las macromoléculas de CB12 
 
 <div align="center">
 <img src="figures/08_raman_TDCA.png" width="50%" alt="Espectros Raman CB12 con ATDC"/>
