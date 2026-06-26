@@ -18,11 +18,6 @@
   </a>
 </p>
 
-<p align="center">
-  <b>GenBank:</b> 
-  <a href="https://nih.gov">CB2 (OQ107531.1)</a> | 
-  <a href="https://nih.gov">CB12 (OQ107533.1)</a>
-</p>
 
 ## Descripción
 
