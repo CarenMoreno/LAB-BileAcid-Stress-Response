@@ -317,7 +317,7 @@ Un trabajo reciente de Foley et al. (2021) en *L. gasseri* y *L. acidophilus* ta
 <br>
 
 <div align="center">
-<img src="figures/fig24_free_comparison.png" width="50%" alt="Comparación AB libres"/>
+<img src="figures/fig24_free_comparison.png" width="40%" alt="Comparación AB libres"/>
 <br>
 <sub><b>Figura 5.</b> Comparación de los porcentajes de sobrevida con los AB libres (AC y ADC). Notar la diferencia de escala en el eje X respecto a la figura anterior - los AB libres son activos a concentraciones mucho menores.</sub>
 </div>
