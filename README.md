@@ -234,7 +234,7 @@ Ambas cepas fueron aisladas de quesos artesanales de cabra y seleccionadas previ
 
 ---
 
-## 📊 Capítulo I - Viabilidad y efecto de prebióticos
+## 📊Capítulo I - Viabilidad y efecto de prebióticos
 
 ### Los ácidos biliares evaluados
 
