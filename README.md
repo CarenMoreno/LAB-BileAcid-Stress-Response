@@ -63,7 +63,7 @@ LAB-BileAcid-Stress-Response/
 │
 ├── R/                           ← Scripts de R
 │   ├── 00_setup.R               ← Instalación de paquetes
-│   ├── 01_viability_conjugated.R
+│   ├── 01_viability_conjugated.R 
 │   ├── 02_viability_free.R
 │   ├── 03_prebiotics.R
 │   ├── 04_zeta_potential.R
