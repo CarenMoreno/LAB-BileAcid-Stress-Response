@@ -701,7 +701,7 @@ GitHub. https://github.com/CarenMoreno/LAB-BileAcid-Stress-Response
 
 ---
 
-## 👩‍🔬 Sobre la autora
+## Autor
 
 **Caren Moreno**
 
