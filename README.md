@@ -527,7 +527,7 @@ Los análisis fueron realizados en el **Centro Integral de Microscopía Electró
 El potencial zeta es una medida directa de la carga superficial neta de la célula bacteriana. Su variación en presencia de AB permite inferir cómo estas moléculas interactúan con la envoltura celular - si se acumulan en la membrana (modificando la carga) o si difunden rápidamente hacia el interior.
 
 <div align="center">
-<img src="figures/fig_zeta_TDCA.png" width="35%" alt="Potencial zeta"/>
+<img src="figures/fig_zeta_TDCA.png" width="40%" alt="Potencial zeta"/>
 <br>
 <sub><b>Figura 21.</b> Distribución de potencial zeta de CB12 en función de la concentración de ATDC. El ATDC a bajas concentraciones desplaza el Pζ hacia valores más negativos, indicando acumulación del AB en la membrana.</sub>
 </div>
@@ -535,7 +535,7 @@ El potencial zeta es una medida directa de la carga superficial neta de la célu
 <br>
 
 <div align="center">
-<img src="figures/fig_zeta_DCA.png" width="35%" alt="Potencial zeta ADC"/>
+<img src="figures/fig_zeta_DCA.png" width="40%" alt="Potencial zeta ADC"/>
 <br>
 <sub><b>Figura 22.</b> Distribución de potencial zeta con ADC. A diferencia del AC y ATDC, el ADC produce cambios graduales hacia valores más positivos - consistente con difusión rápida al interior celular dada su mayor hidrofobicidad.</sub>
 </div>
@@ -543,7 +543,7 @@ El potencial zeta es una medida directa de la carga superficial neta de la célu
 <br>
 
 <div align="center">
-<img src="figures/fig42_zeta_CA.png" width="70%" alt="Potencial zeta AC"/>
+<img src="figures/fig_zeta_CA.png" width="40%" alt="Potencial zeta AC"/>
 <br>
 <sub><b>Figura 23.</b> Distribución de potencial zeta con AC. Comportamiento similar al ATDC: el AC a bajas concentraciones se acumula en la membrana, generando un exceso de carga negativa, antes de ingresar al citoplasma.</sub>
 </div>
