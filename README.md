@@ -285,12 +285,6 @@ Lo primero que hicimos fue determinar qué concentración de cada AB era necesar
   <sub><b>Figura 1.</b> Porcentajes de sobrevida de <i>L. parabuchneri</i> CB12 y <i>Lp. plantarum</i> CB2 en presencia de AGDC y AGC a distintas concentraciones. El AGDC resultó más inhibitorio que el AGC para ambas cepas.</sub>
 </div>
 
-<div align="center">
-<img src="figures/01_viability_conjugated.png" width="80%" alt="Sobrevida con AGDC y AGC"/>
-<br>
-<sub><b>Figura 1.</b> Porcentajes de sobrevida de <i>L. parabuchneri</i> CB12 y <i>Lp. plantarum</i> CB2 en presencia de AGDC y AGC a distintas concentraciones. El AGDC resultó más inhibitorio que el AGC para ambas cepas.</sub>
-</div>
-
 <br>
 
 <div align="center">
