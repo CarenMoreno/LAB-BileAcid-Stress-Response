@@ -271,6 +271,21 @@ Lo primero que hicimos fue determinar qué concentración de cada AB era necesar
 ### Resultados de viabilidad - Ácidos conjugados
 
 <div align="center">
+  <table>
+    <tr>
+      <td style="border: none;">
+        <img src="figures/fig_AGDC_survival.png" width="400" alt="Supervivencia AGDC 1">
+      </td>
+      <td style="border: none;">
+        <img src="figures/Supervivencia-AGDC.png" width="400" alt="Supervivencia AGDC 2">
+      </td>
+    </tr>
+  </table>
+  <br>
+  <sub><b>Figura 1.</b> Porcentajes de sobrevida de <i>L. parabuchneri</i> CB12 y <i>Lp. plantarum</i> CB2 en presencia de AGDC y AGC a distintas concentraciones. El AGDC resultó más inhibitorio que el AGC para ambas cepas.</sub>
+</div>
+
+<div align="center">
 <img src="figures/01_viability_conjugated.png" width="80%" alt="Sobrevida con AGDC y AGC"/>
 <br>
 <sub><b>Figura 1.</b> Porcentajes de sobrevida de <i>L. parabuchneri</i> CB12 y <i>Lp. plantarum</i> CB2 en presencia de AGDC y AGC a distintas concentraciones. El AGDC resultó más inhibitorio que el AGC para ambas cepas.</sub>
