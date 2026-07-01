@@ -240,6 +240,8 @@ Ambas cepas fueron aisladas de quesos artesanales de cabra y seleccionadas previ
 
 Trabajamos con seis ácidos biliares que representan las formas más relevantes fisiológicamente en el intestino delgado humano:
 
+<div align="center">
+  
 | Abreviatura | Nombre completo | Tipo | Conjugado con |
 |---|---|---|---|
 | AGDC | Ácido glicodeoxicólico | Conjugado | Glicina |
@@ -248,6 +250,8 @@ Trabajamos con seis ácidos biliares que representan las formas más relevantes 
 | ATC | Ácido taurocólico | Conjugado | Taurina |
 | ADC | Ácido desoxicólico | **Libre** | — |
 | AC | Ácido cólico | **Libre** | — |
+
+</div>
 
 Los AB libres son productos de la hidrólisis de los conjugados, catalizada por la enzima **hidrolasa de sales biliares (HSB/BSH)** - una actividad que ambas cepas presentan y que es considerada un biomarcador probiótico.
 
