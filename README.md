@@ -248,8 +248,8 @@ Trabajamos con seis ácidos biliares que representan las formas más relevantes 
 | AGC | Ácido glicocólico | Conjugado | Glicina |
 | ATDC | Ácido taurodeoxicólico | Conjugado | Taurina |
 | ATC | Ácido taurocólico | Conjugado | Taurina |
-| ADC | Ácido desoxicólico | **Libre** | — |
-| AC | Ácido cólico | **Libre** | — |
+| ADC | Ácido desoxicólico | **Libre** | —— |
+| AC | Ácido cólico | **Libre** | —— |
 
 </div>
 
