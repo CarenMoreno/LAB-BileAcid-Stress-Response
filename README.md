@@ -43,7 +43,7 @@ como parte del portfolio de bioinformática de la autora.
 - *Lactiplantibacillus plantarum* CB2
 
 Ambas cepas fueron aisladas de quesos artesanales de cabra y seleccionadas
-por sus propiedades probióticas potenciales.
+por sus potenciales propiedades probióticas.
 
 <p align="center">
   <img src="figures/biotech.png?raw=true" width="350" alt="Mecanismo de acción">
