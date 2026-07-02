@@ -171,6 +171,67 @@ Si encontrás algo útil acá, si tenés preguntas sobre los métodos, o si simp
 
 ---
 
+## 📁 Estructura del repositorio
+
+```
+LAB-BileAcid-Stress-Response/
+│
+├── README.md                          ← Este archivo
+├── LICENSE                            ← CC BY 4.0
+│
+├── figures/                           ← Todas las figuras del trabajo
+│   ├── fig20_AGDC_AGC_survival.png
+│   ├── fig21_ATDC_ATC_survival.png
+│   ├── fig22_ADC_AC_survival.png
+│   ├── fig23_conjugated_comparison.png
+│   ├── fig24_free_comparison.png
+│   ├── fig25_prebiotics.png
+│   ├── fig26_raman_baseline.png
+│   ├── fig27_raman_TDCA.png
+│   ├── fig28_raman_diff_TDCA.png
+│   ├── fig29_raman_DCA.png
+│   ├── fig30_raman_diff_DCA.png
+│   ├── fig31_raman_CA.png
+│   ├── fig32_raman_diff_CA.png
+│   ├── fig33_raman_fractions.png
+│   ├── fig34_raman_membrane_BA.png
+│   ├── fig35_raman_diff_membrane.png
+│   ├── fig36_SEM_control.png
+│   ├── fig37_SEM_TDCA.png
+│   ├── fig38_SEM_DCA.png
+│   ├── fig39_SEM_CA.png
+│   ├── fig40_zeta_TDCA.png
+│   ├── fig41_zeta_DCA.png
+│   ├── fig42_zeta_CA.png
+│   ├── fig43_cell_wall_model_biorender.png
+│   ├── fig44_mechanism_biorender.png
+│   └── fig45_autoaggregation.png
+│
+├── data/                              ← Datos recuperados de los ensayos
+│   └── raw/
+│       ├── fig1_GDCA_survival.csv
+│       ├── fig2_GCA_survival.csv
+│       ├── fig3_TDCA_survival.csv
+│       ├── fig4_TCA_survival.csv
+│       ├── fig5_DCA_survival.csv
+│       ├── fig6_CA_survival.csv
+│       ├── fig11_zetapotential_TDCA.csv
+│       ├── fig12_zetapotential_DCA.csv
+│       ├── fig13_zetapotential_CA.csv
+│       └── fig14_autoaggregation.csv
+│
+└── R/                                 ← Scripts de análisis
+    ├── 00_setup.R
+    ├── 01_viability_conjugated.R
+    ├── 02_viability_free.R
+    ├── 03_prebiotics.R
+    ├── 04_zeta_potential.R
+    ├── 05_autoaggregation.R
+    └── 06_all_figures.R
+```
+
+---
+
 ## 📋Tabla de contenidos
 
 - [Contexto biológico](#-contexto-biológico)
