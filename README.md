@@ -387,10 +387,10 @@ Lo primero que hicimos fue determinar qué concentración de cada AB era necesar
   <table>
     <tr>
       <td style="border: none;">
-        <img src="figures/fig_ATDC_survival.png" width="450" alt="Supervivencia AGDC">
+        <img src="figures/fig_ADC_survival.png" width="450" alt="Supervivencia AGDC">
       </td>
       <td style="border: none;">
-        <img src="figures/fig_ATDC_survival1.png" width="450" alt="Supervivencia AGC">
+        <img src="figures/fig_ADC_survival1.png" width="450" alt="Supervivencia AGC">
       </td>
     </tr>
   </table>
