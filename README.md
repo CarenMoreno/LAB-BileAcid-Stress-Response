@@ -353,6 +353,23 @@ Lo primero que hicimos fue determinar qué concentración de cada AB era necesar
 <br>
 
 <div align="center">
+  <table>
+    <tr>
+      <td style="border: none;">
+        <img src="figures/fig_ATDC_survival.png" width="350" alt="Supervivencia AGDC">
+      </td>
+      <td style="border: none;">
+        <img src="figures/fig_ATDC_survival1.png" width="350" alt="Supervivencia AGC">
+      </td>
+    </tr>
+  </table>
+  <br>
+  <sub><b>Figura 2.</b> Efecto de los ácidos biliares tauroconjugados (ATDC y ATC) sobre la viabilidad de ambas cepas. Los tauroconjugados fueron considerablemente menos inhibitorios que sus contrapartes glicoconjugadas.</sub>
+</div>
+
+<br>
+
+<div align="center">
 <img src="figures/fig21_ATDC_ATC_survival.png" width="80%" alt="Sobrevida con ATDC y ATC"/>
 <br>
 <sub><b>Figura 2.</b> Efecto de los ácidos biliares tauroconjugados (ATDC y ATC) sobre la viabilidad de ambas cepas. Los tauroconjugados fueron considerablemente menos inhibitorios que sus contrapartes glicoconjugadas.</sub>
