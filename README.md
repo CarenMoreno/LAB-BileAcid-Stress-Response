@@ -434,7 +434,7 @@ Una vez identificada la cepa CB12 como la más resistente y con mejores propieda
 La hipótesis era que estos compuestos podrían actuar como fuente de energía adicional bajo condiciones de estrés, o bien reducir la solubilidad de los AB disminuyendo su toxicidad.
 
 <div align="center">
-<img src="figures/03_prebiotics.png" width="70%" alt="Efecto prebióticos"/>
+<img src="figures/03_prebiotics.png" width="51%" high="120%" alt="Efecto prebióticos"/>
 <br>
 <sub><b>Figura 6.</b> Cambio en el porcentaje de sobrevida de <i>L. parabuchneri</i> CB12 con el agregado de Inulina HP o Lactulosa (2% p/v) en presencia de AC, ADC, AGDC y ATDC. Diferencias significativas se observaron solo con AGDC (** p ≤ 0,001).</sub>
 </div>
