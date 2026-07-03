@@ -400,14 +400,6 @@ Lo primero que hicimos fue determinar qué concentración de cada AB era necesar
 
 <br>
 
-<div align="center">
-<img src="figures/02_viability_free.png" width="80%" alt="Sobrevida con ADC y AC"/>
-<br>
-<sub><b>Figura 3.</b> Efecto de los ácidos biliares libres ADC (ácido desoxicólico) y AC (ácido cólico) sobre la sobrevida de ambas cepas. El AC resultó significativamente más tóxico que el ADC, mostrando inhibición completa de CB12 a 1 mM.</sub>
-</div>
-
-<br>
-
 Este fue uno de los resultados más sorprendentes del trabajo. En la literatura, varios autores reportan que el ADC es más inhibitorio que el AC porque es más hidrofóbico y puede cruzar la membrana más rápido. Sin embargo, nuestros resultados muestran la tendencia opuesta: el AC fue el más deletéreo, especialmente para CB12, cuya viabilidad cayó por debajo del 5% a 1 mM de AC.
 
 Un trabajo reciente de Foley et al. (2021) en *L. gasseri* y *L. acidophilus* también encontró mayor toxicidad del AC sobre el ADC, y propone que el efecto inhibitorio de los AB en BL no se limita a sus propiedades detergentes. La respuesta depende de la composición de la membrana de cada cepa y de sus mecanismos de resistencia intrínsecos.
