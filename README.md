@@ -727,6 +727,6 @@ Este trabajo fue realizado en el **Centro de Investigación en Biofísica Aplica
 <div align="center">
 
 *Este repositorio es parte de mi trayectoria hacia la bioinformática.*
-*Cada figura acá representa horas de trabajo en el laboratorio - y vale la pena recordarlo.*
+*Cada figura acá representa horas de trabajo en el laboratorio.*
 
 </div>
