@@ -1,7 +1,3 @@
-Repositorio de reproducibilidad de los resultados presentados en la tesis de grado
-**"Respuesta de bacterias lácticas al estrés por ácidos biliares y su potencial
-modulación por oligosacáridos prebióticos"** y en la publicación científica asociada:
-
 > **Moreno, C.N.; Gomez, J.N.; Taranto, M.P.; Ledesma, A.E.; Bustos, A.Y.**
 > *Molecular Insight into the Response of Lactic Acid Bacteria to Bile Acids.*
 > BioTech 2024, 13, 29. https://doi.org/10.3390/biotech13030029
