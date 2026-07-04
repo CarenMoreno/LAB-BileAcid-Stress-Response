@@ -1,5 +1,3 @@
-# LAB-BileAcid-Stress-Response
-
 <p align="center">
   <a href="https://www.r-project.org/">
     <img src="https://img.shields.io/badge/R-%3E%3D4.0-276DC3?style=for-the-badge&logo=R&logoColor=white"/>
