@@ -423,7 +423,7 @@ Un trabajo reciente de Foley et al. (2021) en *L. gasseri* y *L. acidophilus* ta
         <img src="figures/heatmap_conjugados_paleta_B.png" width="400" alt="Comparación supervivencia AB conjugados">
       </td>
       <td style="border: none;">
-        <img src="figures/heatmap_libres_paleta_A.png" width="400" alt="Comparación supervivencia AB libres">
+        <img src="figures/heatmap_libres_paleta_A.png" width="51%" high="120%" alt="Comparación supervivencia AB libres">
       </td>
     </tr>
   </table>
