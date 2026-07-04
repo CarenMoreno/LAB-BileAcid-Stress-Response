@@ -1,7 +1,3 @@
-
-  <a href="https://nih.gov">CB12 (OQ107533.1)</a>
-</p>
-
 ## Descripción
 
 Repositorio de reproducibilidad de los resultados presentados en la tesis de grado
