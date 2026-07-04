@@ -100,8 +100,6 @@ Centro de Investigación en Biofísica Aplicada y Alimentos (CIBAAL-UNSE-CONICET
   </a>
 </p>
 
-**Caren Moreno** · Biotecnóloga · CIBAAL-UNSE-CONICET · Santiago del Estero, Argentina
-
 </div>
 
 ---
