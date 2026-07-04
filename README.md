@@ -5,7 +5,7 @@ LAB-BileAcid-Stress-Response/
 ├── LICENSE                      ← MIT o CC BY 4.0 (paper)
 │
 ├── data/                        ← Todos los datos crudos en CSV
-│   ├── raw/                     ← Datos tal como los extrajiste de Origin
+│   ├── raw/                   
 │   └── processed/               ← Si hubiera transformaciones previas
 │
 ├── R/                           ← Scripts de R
