@@ -1,5 +1,3 @@
-## Estructura del repositorio
-
 ```
 LAB-BileAcid-Stress-Response/
 │
