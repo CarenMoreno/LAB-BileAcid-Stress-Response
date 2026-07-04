@@ -417,9 +417,18 @@ Un trabajo reciente de Foley et al. (2021) en *L. gasseri* y *L. acidophilus* ta
 <br>
 
 <div align="center">
-<img src="figures/heatmap_conjugados_paleta_A.png" width="40%" alt="Comparación AB libres"/>
-<br>
-<sub><b>Figura 5.</b> Comparación de los porcentajes de sobrevida con los AB libres (AC y ADC). Notar la diferencia de escala en el eje X respecto a la figura anterior - los AB libres son activos a concentraciones mucho menores.</sub>
+  <table>
+    <tr>
+      <td style="border: none;">
+        <img src="figures/heatmap_conjugados_paleta_B.png" width="400" alt="Comparación supervivencia AB conjugados">
+      </td>
+      <td style="border: none;">
+        <img src="figures/heatmap_libres_paleta_A.png" width="400" alt="Comparación supervivencia AB libres">
+      </td>
+    </tr>
+  </table>
+  <br>
+  <sub><b>Figura 5.</b> Comparación de los porcentajes de sobrevida con los AB libres (AC y ADC). Notar la diferencia de escala en el eje X respecto a la figura anterior - los AB libres son activos a concentraciones mucho menores.</sub>
 </div>
 
 ---
