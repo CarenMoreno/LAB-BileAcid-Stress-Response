@@ -409,7 +409,7 @@ Un trabajo reciente de Foley et al. (2021) en *L. gasseri* y *L. acidophilus* ta
 ### Comparación global entre todos los AB evaluados
 
 <div align="center">
-<img src="figures/fig23_conjugated_comparison.png" width="75%" alt="Comparación AB conjugados"/>
+<img src="figures/heatmap_survival.png" width="75%" alt="Comparación entre AB"/>
 <br>
 <sub><b>Figura 4.</b> Comparación de los porcentajes de sobrevida de ambas cepas con todos los AB conjugados evaluados (AGDC, AGC, ATDC, ATC) a las concentraciones 2,5; 5 y 7,5 mM.</sub>
 </div>
