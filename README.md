@@ -1,6 +1,5 @@
 ## Organismos de estudio
 
-- *Lentilactobacillus parabuchneri* CB12
 - *Lactiplantibacillus plantarum* CB2
 
 Ambas cepas fueron aisladas de quesos artesanales de cabra y seleccionadas
