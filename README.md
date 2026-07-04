@@ -1,6 +1,3 @@
-Ambas cepas fueron aisladas de quesos artesanales de cabra y seleccionadas
-por sus potenciales propiedades probióticas.
-
 <p align="center">
   <img src="figures/biotech.png?raw=true" width="350" alt="Mecanismo de acción">
 </p>
