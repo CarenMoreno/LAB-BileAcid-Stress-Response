@@ -71,8 +71,6 @@ source("R/06_all_figures.R")
 
 **Caren Moreno**
 
-Centro de Investigación en Biofísica Aplicada y Alimentos (CIBAAL-UNSE-CONICET)
-
 <div align="center">
 
 # 🧬 LAB-BileAcid-Stress-Response
