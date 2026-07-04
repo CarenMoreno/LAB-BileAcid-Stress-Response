@@ -1,6 +1,3 @@
-  <a href="https://creativecommons.org/licenses/by/4.0/">
-    <img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey?style=for-the-badge"/>
-  </a>
   <a href="https://www.mdpi.com/2673-6284/13/3/29">
     <img src="https://img.shields.io/badge/DOI-10.3390%2Fbiotech13030029-28A745?style=for-the-badge"/>
   </a>
