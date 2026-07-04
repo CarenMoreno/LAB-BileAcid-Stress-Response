@@ -102,8 +102,6 @@ Centro de Investigación en Biofísica Aplicada y Alimentos (CIBAAL-UNSE-CONICET
 
 **Caren Moreno** · Biotecnóloga · CIBAAL-UNSE-CONICET · Santiago del Estero, Argentina
 
-*Trabajo Final de Grado en Biotecnología - 2023/2024*
-
 </div>
 
 ---
