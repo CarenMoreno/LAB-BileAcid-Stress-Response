@@ -9,7 +9,7 @@ LAB-BileAcid-Stress-Response/
 │   └── processed/               ← Si hubiera transformaciones previas
 │
 ├── R/                           ← Scripts de R
-│   ├── 00_setup.R               ← Instalación de paquetes 
+│   ├── 00_setup.R                
 │   ├── 01_viability_conjugated.R 
 │   ├── 02_viability_free.R
 │   ├── 03_prebiotics.R
