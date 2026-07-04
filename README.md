@@ -70,7 +70,6 @@ source("R/06_all_figures.R")
 ## Autora
 
 **Caren Moreno**
-Biotecnóloga | Docente | Estudiante de Maestría en Bioinformática (UNIR)
 
 Centro de Investigación en Biofísica Aplicada y Alimentos (CIBAAL-UNSE-CONICET)
 
