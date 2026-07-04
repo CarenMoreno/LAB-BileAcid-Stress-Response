@@ -15,7 +15,7 @@ LAB-BileAcid-Stress-Response/
 │   ├── 03_prebiotics.R
 │   ├── 04_zeta_potential.R
 │   ├── 05_autoaggregation.R
-│   └── 06_all_figures.R         ← Script maestro que corre todo
+│   └── 06_all_figures.R         
 │
 ├── figures/                     ← Figuras generadas por R (PNG/SVG)
 │
