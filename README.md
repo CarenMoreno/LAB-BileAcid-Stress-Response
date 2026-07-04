@@ -1,6 +1,3 @@
-Todos los gráficos fueron generados con R (originalmente producidos con OriginPro)
-como parte del portfolio de bioinformática de la autora.
-
 ## Organismos de estudio
 
 - *Lentilactobacillus parabuchneri* CB12
