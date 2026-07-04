@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="figures/biotech.png?raw=true" width="350" alt="Mecanismo de acción">
-</p>
-
 ## Estructura del repositorio
 
 ```
