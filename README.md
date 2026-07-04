@@ -118,10 +118,6 @@ source("R/06_all_figures.R")
   <img src="figures/04_zeta_potential.png?raw=true" width="850" alt="Potencial Z">
 </p>
 
-<p align="center">
-  <img src="figures/03_prebiotics.png?raw=true" width="600" alt="Efecto de los prebioticos">
-</p>
-
 ## Autora
 
 **Caren Moreno**
