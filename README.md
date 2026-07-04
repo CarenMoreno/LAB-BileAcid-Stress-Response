@@ -1,6 +1,3 @@
-  <a href="https://www.mdpi.com/2673-6284/13/3/29">
-    <img src="https://img.shields.io/badge/DOI-10.3390%2Fbiotech13030029-28A745?style=for-the-badge"/>
-  </a>
   <a href="https://www.ncbi.nlm.nih.gov/nuccore/OQ107531.1">
     <img src="https://img.shields.io/badge/GenBank-CB2%20OQ107531.1-E67E22?style=for-the-badge"/>
   </a>
