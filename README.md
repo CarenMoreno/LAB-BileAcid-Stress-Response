@@ -1,7 +1,3 @@
-## Organismos de estudio
-
-- *Lactiplantibacillus plantarum* CB2
-
 Ambas cepas fueron aisladas de quesos artesanales de cabra y seleccionadas
 por sus potenciales propiedades probióticas.
 
