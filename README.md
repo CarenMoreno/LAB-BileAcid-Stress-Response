@@ -1,5 +1,3 @@
-## Descripción
-
 Repositorio de reproducibilidad de los resultados presentados en la tesis de grado
 **"Respuesta de bacterias lácticas al estrés por ácidos biliares y su potencial
 modulación por oligosacáridos prebióticos"** y en la publicación científica asociada:
