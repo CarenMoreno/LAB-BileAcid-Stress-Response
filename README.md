@@ -1,6 +1,3 @@
-  <a href="https://www.ncbi.nlm.nih.gov/nuccore/OQ107531.1">
-    <img src="https://img.shields.io/badge/GenBank-CB2%20OQ107531.1-E67E22?style=for-the-badge"/>
-  </a>
   <a href="https://www.ncbi.nlm.nih.gov/nuccore/OQ107533.1">
     <img src="https://img.shields.io/badge/GenBank-CB12%20OQ107533.1-8E44AD?style=for-the-badge"/>
   </a>
