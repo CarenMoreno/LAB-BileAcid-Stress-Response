@@ -1,8 +1,3 @@
-  <a href="https://www.ncbi.nlm.nih.gov/nuccore/OQ107533.1">
-    <img src="https://img.shields.io/badge/GenBank-CB12%20OQ107533.1-8E44AD?style=for-the-badge"/>
-  </a>
-</p>
-
 <p align="center">
   <b>GenBank:</b> 
   <a href="https://nih.gov">CB2 (OQ107531.1)</a> | 
