@@ -1,5 +1,3 @@
-> BioTech 2024, 13, 29. https://doi.org/10.3390/biotech13030029
-
 Todos los gráficos fueron generados con R (originalmente producidos con OriginPro)
 como parte del portfolio de bioinformática de la autora.
 
