@@ -8,8 +8,7 @@ LAB-BileAcid-Stress-Response/
 │   └── processed/              
 ├── R/                                            
 │   ├── 
-│   └── 06_all         
-│       
+│   └── 06_all              
 │
 ├── docs/                       
 │   └── methods_.md
