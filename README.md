@@ -11,7 +11,6 @@ LAB-BileAcid-Stress-Response/
 │   ├── 00_setup.R                
 │   ├── 01_viability_conjugated.R 
 │   ├── 02_viability_free.R
-│   ├── 03_prebiotics.R
 │   ├── 04_zeta_potential.R
 │   ├── 05_autoaggregation.R
 │   └── 06_all_figures.R         
