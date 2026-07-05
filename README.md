@@ -34,7 +34,7 @@ LAB-BileAcid-Stress-Response/
 ### Requisitos
 
 - R ≥ 4.0
-- RStudio (recomendado)
+- RStudio
 
 ### Pasos
 
