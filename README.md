@@ -6,8 +6,7 @@ LAB-BileAcid-Stress-Response/
 │
 ├── data/                       
 │   ├── raw/                   
-│   └── processed/               ← Si hubiera transformaciones previas
-│
+│   └── processed/              
 ├── R/                           ← Scripts de R
 │   ├── 00_setup.R                
 │   ├── 01_viability_conjugated.R 
