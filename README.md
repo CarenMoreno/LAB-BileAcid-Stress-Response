@@ -10,8 +10,7 @@ LAB-BileAcid-Stress-Response/
 │   ├── 01_viability_conjugated.R 
 │   
 │   └── 06_all_figures.R         
-│
-├── figures/                   
+│       
 │
 ├── docs/                       
 │   └── methods_summary.md
