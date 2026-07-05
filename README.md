@@ -4,7 +4,7 @@ LAB-BileAcid-Stress-Response/
 ├── README.md                  
 ├── LICENSE                      ← MIT o CC BY 4.0 (paper)
 │
-├── data/                        ← Todos los datos crudos en CSV
+├── data/                       
 │   ├── raw/                   
 │   └── processed/               ← Si hubiera transformaciones previas
 │
