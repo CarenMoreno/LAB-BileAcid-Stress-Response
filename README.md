@@ -16,7 +16,7 @@ LAB-BileAcid-Stress-Response/
 │   ├── 05_autoaggregation.R
 │   └── 06_all_figures.R         
 │
-├── figures/                     ← Figuras generadas por R (PNG/SVG)
+├── figures/                   
 │
 ├── docs/                        ← Documentación adicional 
 │   └── methods_summary.md
