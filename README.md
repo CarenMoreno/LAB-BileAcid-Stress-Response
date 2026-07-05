@@ -18,7 +18,7 @@ LAB-BileAcid-Stress-Response/
 │
 ├── figures/                   
 │
-├── docs/                        ← Documentación adicional 
+├── docs/                       
 │   └── methods_summary.md
 │
 └── publication/
