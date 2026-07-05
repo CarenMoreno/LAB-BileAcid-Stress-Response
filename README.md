@@ -8,7 +8,7 @@ LAB-BileAcid-Stress-Response/
 │   ├── raw/                   
 │   └── processed/              
 ├── R/                           
-│   ├── 00_setup.R                
+│   ├──R                
 │   ├── 01_viability_conjugated.R 
 │   
 │   └── 06_all_figures.R         
