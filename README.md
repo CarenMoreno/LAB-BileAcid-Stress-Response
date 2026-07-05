@@ -13,7 +13,7 @@ LAB-BileAcid-Stress-Response/
 │       
 │
 ├── docs/                       
-│   └── methods_summary.md
+│   └── methods_.md
 │
 └── publication/
     └── Moreno_et_al_2024_BioTech.pdf   
