@@ -12,7 +12,6 @@ LAB-BileAcid-Stress-Response/
 │   ├── 01_viability_conjugated.R 
 │   ├── 02_viability_free.R
 │   ├── 04_zeta_potential.R
-│   
 │   └── 06_all_figures.R         
 │
 ├── figures/                   
