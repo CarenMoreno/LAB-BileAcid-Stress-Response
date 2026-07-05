@@ -2,7 +2,7 @@
 LAB-BileAcid-Stress-Response/
 │
 ├── README.md                  
-├── LICENSE                      ← MIT o CC BY 4.0 (paper)
+├── LICENSE                     
 │
 ├── data/                       
 │   ├── raw/                   
