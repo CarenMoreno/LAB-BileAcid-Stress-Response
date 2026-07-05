@@ -8,7 +8,6 @@ LAB-BileAcid-Stress-Response/
 │   └── processed/              
 ├── R/                                            
 │   ├── 
-│   
 │   └── 06_all         
 │       
 │
