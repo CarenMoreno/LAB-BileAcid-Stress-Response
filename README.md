@@ -1,8 +1,7 @@
 ```
 LAB-BileAcid-Stress-Response/
 │
-├── README.md                  
-├── LICENSE                     
+├── README.md                                   
 │
 ├── data/                       
 │   ├── raw/                   
