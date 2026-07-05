@@ -9,7 +9,7 @@ LAB-BileAcid-Stress-Response/
 ├── R/                                            
 │   ├── 
 │   
-│   └── 06_all_figures.         
+│   └── 06_all_         
 │       
 │
 ├── docs/                       
