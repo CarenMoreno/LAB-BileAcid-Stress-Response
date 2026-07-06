@@ -5,7 +5,7 @@ LAB-BileAcid-Stress-Response/
 │
 ├── data/                       
 │   ├── raw/                   
-│   └── processed/              
+│   └── /              
 ├── R/                                            
 │   ├── 
 │   └── 06_all              
