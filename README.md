@@ -13,7 +13,7 @@ LAB-BileAcid-Stress-Response/
 │   └── 
 │
 └── publication/
-    └── Moreno_et_al_.pdf   
+    └── Moreno_et_.pdf   
 ```
 
 ## Contenido del repositorio
