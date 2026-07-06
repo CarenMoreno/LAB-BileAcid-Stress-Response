@@ -3,7 +3,7 @@ LAB-BileAcid-Stress-Response/
 │
 ├──                                 
 │
-├── data/                       
+├── data                       
 │   ├──                    
 │   └──               
 ├── R/                                            
