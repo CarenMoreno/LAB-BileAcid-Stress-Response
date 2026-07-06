@@ -11,7 +11,7 @@ LAB-BileAcid-Stress-Response/
 │   └──               
 │
 ├── docs/                       
-│   └── _.md
+│   └── _
 │
 └── publication/
     └── Moreno_et_al_2024_.pdf   
