@@ -1,7 +1,7 @@
 ```
 LAB-BileAcid-Stress-Response/
 │
-├── README.md                                   
+├──                                 
 │
 ├── data/                       
 │   ├── raw/                   
