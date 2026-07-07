@@ -1,7 +1,6 @@
 ```
 LAB-BileAcid-Stress-Response/
 │                               
-
 ├── data                       
 │   ├──                    
 │   └──               
