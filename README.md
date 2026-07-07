@@ -6,7 +6,7 @@ LAB-BileAcid-Stress-Response/
 ├── data                       
 │   ├──                    
 │   └──               
-├── R/                                            
+├── R                                           
 │   ├──                
 ├── docs/                       
 │   └── 
