@@ -12,7 +12,7 @@ LAB-BileAcid-Stress-Response/
 │   └── 
 │
 └── publication/
-    └── .pdf   
+    └── pdf   
 ```
 
 ## Contenido del repositorio
