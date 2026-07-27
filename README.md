@@ -2,7 +2,6 @@
 LAB-BileAcid-Stress-Response/                                                                                                                          
 ├── docs/                        
 └── publication/
-    └── pdf   
 ```
 
 ## Contenido del repositorio
