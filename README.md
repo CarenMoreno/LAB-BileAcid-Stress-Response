@@ -1,6 +1,5 @@
 ```
-LAB-BileAcid-Stress-Response/
-│                                                                                                                              
+LAB-BileAcid-Stress-Response/                                                                                                                          
 ├── docs/                        
 └── publication/
     └── pdf   
