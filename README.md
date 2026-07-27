@@ -6,8 +6,7 @@ LAB-BileAcid-Stress-Response/
 │   └──               
 ├── R                                           
 │   ├──                
-├── docs/                       
-│  
+├── docs/                        
 └── publication/
     └── pdf   
 ```
