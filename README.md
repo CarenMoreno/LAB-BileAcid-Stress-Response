@@ -1,6 +1,5 @@
 ```
-LAB-BileAcid-Stress-Response/                                                                                                                                      
-└── publication/
+LAB-BileAcid-Stress-Response/                                                                                                                                   
 ```
 
 ## Contenido del repositorio
