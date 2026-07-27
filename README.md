@@ -2,8 +2,7 @@
 LAB-BileAcid-Stress-Response/
 │                               
 ├── data                       
-│   ├──                    
-│   └──               
+│   ├──                               
 ├── R                                                    
 ├── docs/                        
 └── publication/
